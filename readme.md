@@ -65,3 +65,11 @@ Where you’re challenged is where you have space to learn.
 ## **Stay present; take care of yourself**
 
 Truly engaging can be challenging and vulnerable.
+
+## **Write clean code**
+
+It's good for you and good for other and makes eveyones life better. Also uses less data thus less energy usage thus saving the planet. 
+
+## **Believe in yourself**
+
+Although you may be experiencing technical problems you can always surpass them with enough perseverance. 
