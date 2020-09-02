@@ -1,5 +1,8 @@
 # Community Agreements
 
+![alt text](https://64.media.tumblr.com/tumblr_l8nn3cuIHK1qccsj6.gif)
+
+
 ## **Cultivate a brave space**
 
 We cannot guarantee safety, but we can strive for a space where we share bravely, take risks, be vulnerable and hold each accountable with love and respect.
@@ -73,3 +76,5 @@ It's good for you and good for other and makes eveyones life better. Also uses l
 ## **Believe in yourself**
 
 Although you may be experiencing technical problems you can always surpass them with enough perseverance. 
+
+
